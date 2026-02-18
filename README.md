@@ -9,7 +9,7 @@ Sebuah program yang bertujuan untuk menyelesaikan permainan Queens Linkedin. Pro
 
 ## Cara Compile Program
 1. Untuk Python versi windows, umumnya pip dan Tkinter sudah terpasang bersama dengan instalasi Python.
-2. Buka repository dengan terminal, kemudian masuk ke directory `source_code`
+2. Buka repository dengan terminal, kemudian masuk ke directory `scr`
 3. Compile program utama
 
 ## Cara Menjalankan Program
