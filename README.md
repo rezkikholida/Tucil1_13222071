@@ -17,5 +17,8 @@ Sebuah program yang bertujuan untuk menyelesaikan permainan Queens Linkedin. Pro
 2. Jalankan kode dengan mengklik tombol run
 3. Hasil diperoleh pada GUI dan terminal
 
+## Author
+Kholida Rezki Khoiriah (13222071)
+
 ## Catatan
 Saat file README ini dibuat, source code belum memenuhi spesifikasi.
